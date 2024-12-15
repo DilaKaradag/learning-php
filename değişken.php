@@ -4,6 +4,9 @@
 
 $degisken="Dila Karadağ";
 
+$sayi=5;
+
 echo $degisken;
+echo $sayi;
 
 ?>
